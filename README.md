@@ -2,7 +2,7 @@
 
 ## 🌟 Our Mission
 
-MultiChat.ai general-purpose AI assistant
+MultiChat.ai general-purpose AI assistant, using `LLMA_MODEL="llama-3.1-70b-versatile"`
 
 ## Prerequisites
 
